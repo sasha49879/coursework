@@ -1,0 +1,4 @@
+id,name,popularity,duration_ms,explicit,artists,id_artists,release_date,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,release_year,Unnamed: 21
+703JEIUuPaFWyNzprhfw8C,СИЛЬНО,53,179381,0,['MONATIK'],['6wbEgVlGqWb4I9tbMluu5Q'],2019-05-17,0.647,0.259,4.0,-10.191,0.0,0.0401,0.615,0.0,0.285,0.45,129.521,5.0,,
+1nJhwRoP5is9QafikxzWPu,Кружит,50,197907,0,['MONATIK'],['6wbEgVlGqWb4I9tbMluu5Q'],2016-05-25,0.812,0.623,0.0,-7.412,1.0,0.0664,0.0488,0.000116,0.0381,0.684,121.956,4.0,,
+5GGeHgYGtPo7al1jxyVQQQ,Papi,50,191667,0,"['T-Fest', 'Michelle Andrade']","['01lZudgXsojt5TBHuygB8r', '3xT2YG5knwqo4duPeQ6x9S']",2019-09-27,0.667,0.486,5.0,-6.79,1.0,0.0827,0.0226,0.0,0.2,0.225,107.83,4.0,,
